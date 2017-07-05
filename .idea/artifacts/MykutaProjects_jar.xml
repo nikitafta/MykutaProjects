@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MykutaProjects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MykutaProjects_jar</output-path>
+    <root id="archive" name="MykutaProjects.jar">
+      <element id="module-output" name="MykutaProjects" />
+    </root>
+  </artifact>
+</component>
